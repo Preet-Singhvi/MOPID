@@ -1,3 +1,5 @@
 django>=4.2
 djangorestframework
 djangorestframework-simplejwt
+drf_spectacular
+drf_spectacular_sidecar
